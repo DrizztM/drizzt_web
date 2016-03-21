@@ -37,13 +37,16 @@
 		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/applications/apache-maven-3.3.3/maven-dependcies/org/springframework/spring-webmvc/4.2.3.RELEASE/spring-webmvc-4.2.3.RELEASE.jar">
 			<dependency-type>uses</dependency-type>
 		</dependent-module>
-		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/Drizzt/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-ehcache/4.3.5.Final/20fde5d106b17ef69119a55e10452739891e2fdc/hibernate-ehcache-4.3.5.Final.jar">
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/applications/apache-maven-3.3.3/maven-dependcies/org/hibernate/hibernate-core/5.0.5.Final/hibernate-core-5.0.5.Final.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/applications/apache-maven-3.3.3/maven-dependcies/org/hibernate/hibernate-ehcache/5.0.5.Final/hibernate-ehcache-5.0.5.Final.jar">
 			<dependency-type>uses</dependency-type>
 		</dependent-module>
 		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/applications/apache-maven-3.3.3/maven-dependcies/c3p0/c3p0/0.9.1.2/c3p0-0.9.1.2.jar">
 			<dependency-type>uses</dependency-type>
 		</dependent-module>
-		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/applications/apache-maven-3.3.3/maven-dependcies/mysql/mysql-connector-java/5.1.35/mysql-connector-java-5.1.35.jar">
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/Drizzt/.gradle/caches/modules-2/files-2.1/mysql/mysql-connector-java/5.1.13/631249c6055be15a1fab26b3c28a3e5c6f3d97e0/mysql-connector-java-5.1.13.jar">
 			<dependency-type>uses</dependency-type>
 		</dependent-module>
 		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/applications/apache-maven-3.3.3/maven-dependcies/com/fasterxml/jackson/core/jackson-core/2.6.1/jackson-core-2.6.1.jar">
@@ -118,13 +121,19 @@
 		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/applications/apache-maven-3.3.3/maven-dependcies/org/springframework/spring-web/4.2.3.RELEASE/spring-web-4.2.3.RELEASE.jar">
 			<dependency-type>uses</dependency-type>
 		</dependent-module>
-		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/applications/apache-maven-3.3.3/maven-dependcies/org/jboss/logging/jboss-logging-annotations/1.2.0.Beta1/jboss-logging-annotations-1.2.0.Beta1.jar">
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/applications/apache-maven-3.3.3/maven-dependcies/org/jboss/logging/jboss-logging/3.3.0.Final/jboss-logging-3.3.0.Final.jar">
 			<dependency-type>uses</dependency-type>
 		</dependent-module>
 		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/applications/apache-maven-3.3.3/maven-dependcies/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final.jar">
 			<dependency-type>uses</dependency-type>
 		</dependent-module>
 		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/applications/apache-maven-3.3.3/maven-dependcies/org/javassist/javassist/3.18.1-GA/javassist-3.18.1-GA.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/applications/apache-maven-3.3.3/maven-dependcies/org/jboss/jandex/2.0.0.Final/jandex-2.0.0.Final.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/applications/apache-maven-3.3.3/maven-dependcies/org/hibernate/common/hibernate-commons-annotations/5.0.1.Final/hibernate-commons-annotations-5.0.1.Final.jar">
 			<dependency-type>uses</dependency-type>
 		</dependent-module>
 		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/applications/apache-maven-3.3.3/maven-dependcies/net/sf/ehcache/ehcache-core/2.4.3/ehcache-core-2.4.3.jar">
@@ -167,18 +176,6 @@
 			<dependency-type>uses</dependency-type>
 		</dependent-module>
 		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/applications/apache-maven-3.3.3/maven-dependcies/org/apache/lucene/lucene-queries/5.3.1/lucene-queries-5.3.1.jar">
-			<dependency-type>uses</dependency-type>
-		</dependent-module>
-		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/Drizzt/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-core/5.0.4.Final/7e1217f0df943561766b715ffb6cb1d270f3b715/hibernate-core-5.0.4.Final.jar">
-			<dependency-type>uses</dependency-type>
-		</dependent-module>
-		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/applications/apache-maven-3.3.3/maven-dependcies/org/hibernate/common/hibernate-commons-annotations/5.0.1.Final/hibernate-commons-annotations-5.0.1.Final.jar">
-			<dependency-type>uses</dependency-type>
-		</dependent-module>
-		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/applications/apache-maven-3.3.3/maven-dependcies/org/jboss/logging/jboss-logging/3.3.0.Final/jboss-logging-3.3.0.Final.jar">
-			<dependency-type>uses</dependency-type>
-		</dependent-module>
-		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/Drizzt/.gradle/caches/modules-2/files-2.1/org.jboss/jandex/2.0.0.CR1/558d14decc2a335e1cf92431d073836717dcfd56/jandex-2.0.0.CR1.jar">
 			<dependency-type>uses</dependency-type>
 		</dependent-module>
 	</wb-module>
